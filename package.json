@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-luiza-menezes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfólio estático em HTML, CSS e JavaScript puro.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
